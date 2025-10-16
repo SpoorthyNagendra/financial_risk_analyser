@@ -175,12 +175,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/spoorthy-nagendra-ds)
 
 **Note**: This tool is for informational purposes only and does not constitute financial advice. Always consult with a qualified financial advisor before making investment decisions.
-
-
-
-
-
-
-
-   
-is this good enough?
