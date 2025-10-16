@@ -8,7 +8,7 @@ This application helps investors, analysts, and researchers quickly extract and 
 Intelligent Document Analysis**: Semantic search across 10,000+ publicly traded companies' SEC filings
 -  Conversational Interface**: Ask questions in natural language and get AI-powered answers
 -  Real-time Market Data**: View current stock prices, market cap, and P/E ratios alongside risk analysis
-- �Usage Analytics**: Track API costs, response times, token usage, and query patterns with MLflow
+-  Usage Analytics**: Track API costs, response times, token usage, and query patterns with MLflow
 -  Conversation Export**: Download your analysis sessions for future reference
 -  Performance Optimization**: Smart caching reduces analysis time from 60s to <2s for repeated queries
 -  Production Monitoring**: Comprehensive error handling, logging, and retry logic
@@ -49,7 +49,7 @@ Intelligent Document Analysis**: Semantic search across 10,000+ publicly traded 
 
 ### Installation
 1. ** Clone the Repository **
-   ```bash
+```bash
    git clone https://github.com/yourusername/financial-risk-analyzer.git
    cd financial-risk-analyzer
 ```
