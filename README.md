@@ -121,14 +121,14 @@ Actual costs tracked in real-time via MLflow dashboard.
 ## Project Structure
 ```
 financial-risk-analyzer/
-├── app.py                 # Streamlit UI
+├── app.py                # Streamlit UI
 ├── main.py               # Core logic (analysis, queries)
 ├── tracking.py           # MLflow tracking decorator
 ├── requirements.txt      # Python dependencies
-├── .env.example         # Environment variables template
-├── .gitignore           # Git ignore rules
-├── README.md            # This file
-└── screenshots/         # Demo screenshots
+├── .env.example          # Environment variables template
+├── .gitignore            # Git ignore rules
+├── README.md             # This file
+└── Images/               # Demo screenshots
 ```
 ## Security and Best Practices
 - API keys stored in `.env` (never committed to Git)
